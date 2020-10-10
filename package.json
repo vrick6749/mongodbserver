@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vrick6749/mongodbserver/issues"
   },
-  "homepage": "https://github.com/vrick6749/mongodbserver#readme"
+  "homepage": "https://github.com/vrick6749/mongodbserver#readme",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
 }
